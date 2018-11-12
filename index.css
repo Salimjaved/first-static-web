@@ -77,5 +77,21 @@
 .Q{
     background-color: lightcyan;
 }
+.R{
+    background-color: lightcyan;
+    margin: 0px;
+    text-align: center;
+}
+#R1{
 
-
+    margin: 0px;
+    list-style-type: none;
+    display: -webkit-inline-flex;
+    padding: 8px;
+    text-align: initial;
+}
+#R1 li{
+    margin:5px; 
+    padding: 5px; 
+    height: 10px;
+}
