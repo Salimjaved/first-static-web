@@ -47,3 +47,19 @@
     background-color: lightcyan;
     margin-block-end: 1px;
 }
+
+.flex{
+    float: left;
+    border-collapse: collapse;
+    border-spacing: 1px;
+}
+.L{
+     width:401px;
+     height: 433px;
+}
+.L th{
+    text-align: right;
+    padding: 8px;
+    background-color: brown;
+}
+
