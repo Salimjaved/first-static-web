@@ -68,7 +68,11 @@
 }
 .O{
     background-color:  lightcyan;
-    
+    height: 120px;
+}
+.P{
+    float: left;
+    height: 120px;
 }
 
 
